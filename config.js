@@ -76,7 +76,7 @@ module.exports = {
  
   author : process.env.PACK_AUTHER|| "",
   packname: process.env.PACK_NAME || "",
-  botname : process.env.BOT_NAME  || "arlico_06",
+  botname : process.env.BOT_NAME  || "Arlico_06",
   ownername:process.env.OWNER_NAME|| "Arlico",
 
 
